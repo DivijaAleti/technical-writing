@@ -1,5 +1,5 @@
 # technical-writing
-This repository contains some links to pages that I've written as a technical writer at MathWorks.
+This repository showcases some technical documentation pages I authored at MathWorks, covering modeling, simulation, and control-system workflows.
 
 - https://www.mathworks.com/help/ident/ug/estimate-arma-model-using-time-series-modeler-app.html
 - https://www.mathworks.com/help/simulink/slref/reducedordermodeler-app.html
